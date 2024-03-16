@@ -1,0 +1,6 @@
+
+git init
+git add .
+git commit -m "Adding the basic project"
+git remote set-url origin git@github.com:Techno-raizon/WORD-GUESS.git
+git push origin main
